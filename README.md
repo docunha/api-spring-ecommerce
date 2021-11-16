@@ -1,4 +1,4 @@
-### Criando uma solução de e-commerce com microsserviços em Java
+## Criando uma solução de e-commerce com microsserviços em Java
 
 Este projeto foi desenvolvido como parte das atividades do bootcamp Capgemini Fullstack Java and Angular.
 
